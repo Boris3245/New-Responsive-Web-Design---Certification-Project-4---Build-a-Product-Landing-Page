@@ -1,0 +1,9 @@
+@media(max-width: 780px) {
+
+    nav {
+        position: fixed;
+        top: 0px;
+        display: flex;
+      }
+
+}
